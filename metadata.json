@@ -1,0 +1,6 @@
+{
+  "name": "Prism Path",
+  "description": "A dark, minimal light-beam puzzle game with mirrors, splitters, color filters, and portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
